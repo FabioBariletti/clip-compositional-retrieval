@@ -1,0 +1,1081 @@
+{
+"5 o clock shadow": {
+    "synon": [
+      "stubble",
+      "light stubble",
+      "facial stubble",
+      "short beard",
+      "chin stubble",
+      "jaw stubble",
+      "fine stubble",
+      "patchy stubble",
+      "thin stubble",
+      "beard shadow"
+    ],
+    "contr": [
+      "clean shaven",
+      "smooth face",
+      "no beard",
+      "bare face",
+      "hairless face",
+      "freshly shaved",
+      "shaved face",
+      "no stubble",
+      "no facial hair",
+      "smooth jaw"
+    ]
+  },
+
+  "arched eyebrows": {
+    "synon": [
+      "arched eyebrows",
+      "curved eyebrows",
+      "raised eyebrows",
+      "arched brows",
+      "curved brows",
+      "lifted eyebrows",
+      "rounded eyebrows",
+      "bowed eyebrows",
+      "high arch brows",
+      "pronounced arch brows"
+    ],
+    "contr": [
+      "straight eyebrows",
+      "flat eyebrows",
+      "horizontal brows",
+      "flat brow line",
+      "straight brow line",
+      "low arch brows",
+      "minimal arch brows",
+      "unarched eyebrows",
+      "barely curved brows",
+      "flat brow shape"
+    ]
+  },
+
+  "attractive": {
+    "synon": [
+      "symmetrical face",
+      "well balanced face",
+      "clear skin",
+      "smooth skin",
+      "even skin tone",
+      "defined facial features",
+      "balanced facial structure",
+      "clean complexion",
+      "refined facial features",
+      "harmonious face shape"
+    ],
+    "contr": [
+      "asymmetrical face",
+      "uneven facial features",
+      "blemished skin",
+      "rough skin",
+      "uneven skin tone",
+      "unbalanced facial structure",
+      "irregular facial features",
+      "wrinkled skin",
+      "coarse skin",
+      "uneven complexion"
+    ]
+  },
+
+  "bags under eyes": {
+    "synon": [
+        "eye bags",
+        "under eye bags",
+        "puffy eyes",
+        "under eye puffiness",
+        "swollen under eyes",
+        "dark eye bags",
+        "eye swelling",
+        "under eye swelling",
+        "baggy eyes",
+        "deep eye bags"
+    ],
+    "contr": [
+        "smooth under eyes",
+        "firm under eyes",
+        "tight under eyes",
+        "no eye bags",
+        "flat under eyes",
+        "no puffiness",
+        "no dark circles",
+        "even under eyes",
+        "clean under eyes",
+        "clear under eyes"
+    ]
+  },
+
+  "bald": {
+    "synon": [
+        "bald head",
+        "shaved head",
+        "no hair",
+        "hairless head",
+        "smooth scalp",
+        "bald scalp",
+        "completely bald",
+        "clean shaved head",
+        "bare scalp",
+        "head without hair"
+    ],
+    "contr": [
+        "full hair",
+        "thick hair",
+        "dense hair",
+        "long hair",
+        "short hair",
+        "curly hair",
+        "wavy hair",
+        "straight hair",
+        "hair strands",
+        "covered scalp"
+    ]
+  },
+
+  "bangs": {
+    "synon": [
+        "bangs",
+        "fringe hair",
+        "front bangs",
+        "forehead fringe",
+        "hair over forehead",
+        "full bangs",
+        "straight bangs",
+        "curtain bangs",
+        "blunt bangs",
+        "side bangs"
+    ],
+    "contr": [
+        "no bangs",
+        "open forehead",
+        "clear forehead",
+        "slick back hair",
+        "pulled back hair",
+        "no fringe",
+        "forehead visible",
+        "hair away from face",
+        "exposed forehead",
+        "uncovered forehead"
+    ]
+  },
+
+  "big lips": {
+    "synon": [
+        "big lips",
+        "full lips",
+        "large lips",
+        "plump lips",
+        "thick lips",
+        "wide lips",
+        "voluminous lips",
+        "fleshy lips",
+        "puffy lips",
+        "lip fullness"
+    ],
+    "contr": [
+        "thin lips",
+        "small lips",
+        "narrow lips",
+        "flat lips",
+        "tight lips",
+        "slim lips",
+        "minimal lips",
+        "thin mouth",
+        "compressed lips",
+        "narrow mouth"
+    ]
+  },
+
+  "big nose": {
+    "synon": [
+        "big nose",
+        "large nose",
+        "broad nose",
+        "wide nose",
+        "prominent nose",
+        "thick nose",
+        "long nose",
+        "bulky nose",
+        "wide nasal bridge",
+        "large nasal tip"
+    ],
+    "contr": [
+        "small nose",
+        "narrow nose",
+        "thin nose",
+        "slim nose",
+        "short nose",
+        "pointy nose",
+        "small nasal tip",
+        "narrow bridge",
+        "compact nose",
+        "slender nose"
+    ]
+  },
+
+  "black hair": {
+    "synon": [
+        "black hair",
+        "dark hair",
+        "jet black hair",
+        "deep black hair",
+        "pitch black hair",
+        "dark colored hair",
+        "black hair strands",
+        "rich black hair",
+        "solid black hair",
+        "pure black hair"
+    ],
+    "contr": [
+        "blond hair",
+        "light hair",
+        "fair hair",
+        "golden hair",
+        "platinum hair",
+        "white hair",
+        "gray hair",
+        "brown hair",
+        "light brown hair",
+        "red hair"
+    ]
+  },
+
+  "blond hair": {
+    "synon": [
+        "blond hair",
+        "blonde hair",
+        "light hair",
+        "fair hair",
+        "golden hair",
+        "platinum hair",
+        "pale hair",
+        "light blond hair",
+        "bright blond hair",
+        "golden blond hair"
+    ],
+    "contr": [
+        "black hair",
+        "dark hair",
+        "brown hair",
+        "dark brown hair",
+        "deep brown hair",
+        "jet black hair",
+        "red hair",
+        "auburn hair",
+        "chestnut hair",
+        "dark colored hair"
+    ]
+  },
+
+  "blurry": {
+    "synon": [
+        "blurry image",
+        "out of focus",
+        "soft focus",
+        "blurred image",
+        "unfocused image",
+        "motion blur",
+        "hazy image",
+        "fuzzy image",
+        "smudged image",
+        "low detail image"
+    ],
+    "contr": [
+        "sharp image",
+        "clear image",
+        "focused image",
+        "high detail image",
+        "crisp image",
+        "clear edges",
+        "defined image",
+        "sharp focus",
+        "detailed image",
+        "high clarity"
+    ]
+  },
+
+    "brown hair": {
+    "synon": [
+        "brown hair",
+        "dark brown hair",
+        "light brown hair",
+        "chestnut hair",
+        "medium brown hair",
+        "deep brown hair",
+        "rich brown hair",
+        "natural brown hair",
+        "neutral brown hair",
+        "dark chestnut hair"
+    ],
+    "contr": [
+        "blond hair",
+        "black hair",
+        "light hair",
+        "platinum hair",
+        "white hair",
+        "gray hair",
+        "red hair",
+        "auburn hair",
+        "blue hair",
+        "pink hair"
+    ]
+  },
+
+    "bushy eyebrows": {
+    "synon": [
+        "bushy eyebrows",
+        "thick eyebrows",
+        "dense brows",
+        "heavy eyebrows",
+        "full brows",
+        "coarse eyebrows",
+        "wide eyebrows",
+        "hairy eyebrows",
+        "thick brow line",
+        "dense brow line"
+    ],
+    "contr": [
+        "thin eyebrows",
+        "sparse brows",
+        "light eyebrows",
+        "fine eyebrows",
+        "narrow brows",
+        "minimal brows",
+        "thin brow line",
+        "faint eyebrows",
+        "bare eyebrows",
+        "slim eyebrows"
+    ]
+  },
+
+    "chubby": {
+    "synon": [
+        "chubby face",
+        "round face",
+        "full cheeks",
+        "plump face",
+        "puffy cheeks",
+        "wide face",
+        "thick cheeks",
+        "fleshy face",
+        "rounded cheeks",
+        "large cheeks"
+    ],
+    "contr": [
+        "slim face",
+        "thin face",
+        "lean face",
+        "narrow face",
+        "angular face",
+        "sharp face",
+        "defined face",
+        "skinny face",
+        "hollow cheeks",
+        "bony face"
+    ]
+  },
+
+    "double chin": {
+    "synon": [
+        "double chin",
+        "full chin",
+        "thick chin",
+        "fat chin",
+        "chin folds",
+        "rounded chin",
+        "layered chin",
+        "chin fullness",
+        "chin volume",
+        "loose chin"
+    ],
+    "contr": [
+        "sharp jawline",
+        "defined chin",
+        "thin chin",
+        "tight jawline",
+        "angular jaw",
+        "slim chin",
+        "pointed chin",
+        "clean jawline",
+        "lean jawline",
+        "bony chin"
+    ]
+  },
+
+    "eyeglasses": {
+    "synon": [
+        "wearing glasses",
+        "eyeglasses",
+        "glasses",
+        "spectacles",
+        "eye glasses",
+        "optical glasses",
+        "framed glasses",
+        "thin glasses",
+        "thick glasses",
+        "round glasses"
+    ],
+    "contr": [
+        "no glasses",
+        "without glasses",
+        "no eyewear",
+        "no spectacles",
+        "bare eyes",
+        "uncovered eyes",
+        "visible eyes",
+        "eyes without glasses",
+        "face without glasses",
+        "no lenses"
+    ]
+  },
+
+    "goatee": {
+    "synon": [
+        "goatee",
+        "chin beard",
+        "beard on chin",
+        "short chin beard",
+        "goatee beard",
+        "chin stubble",
+        "small beard on chin",
+        "thin chin beard",
+        "narrow chin beard",
+        "beard patch on chin"
+    ],
+    "contr": [
+        "no beard",
+        "clean shaven",
+        "smooth face",
+        "bare chin",
+        "no facial hair",
+        "shaved face",
+        "clean chin",
+        "hairless face",
+        "smooth chin",
+        "face without beard"
+    ]
+  },
+
+    "gray hair": {
+    "synon":[
+        "gray hair",
+        "grey hair",
+        "white hair",
+        "silver hair",
+        "light gray hair",
+        "light silver hair",
+        "pale hair",
+        "ashy hair",
+        "soft gray hair",
+        "graying hair"
+    ],
+    "contr": [
+        "black hair",
+        "dark hair",
+        "brown hair",
+        "deep brown hair",
+        "blond hair",
+        "red hair",
+        "colored hair",
+        "jet black hair",
+        "natural dark hair",
+        "bright hair"
+    ]
+  },
+
+    "heavy makeup": {
+    "synon": [
+        "heavy makeup",
+        "strong makeup",
+        "thick makeup",
+        "full makeup",
+        "dramatic makeup",
+        "intense makeup",
+        "layered makeup",
+        "visible makeup",
+        "dense makeup",
+        "high coverage makeup"
+    ],
+    "contr": [
+        "no makeup",
+        "light makeup",
+        "bare face",
+        "minimal makeup",
+        "makeup free",
+        "low makeup",
+        "subtle makeup",
+        "nude makeup",
+        "light coverage makeup",
+        "skin visible"
+    ]
+  },
+
+    "high cheekbones": {
+    "synon": [
+        "high cheekbones",
+        "defined cheekbones",
+        "sharp cheekbones",
+        "prominent cheekbones",
+        "angular cheeks",
+        "lifted cheekbones",
+        "elevated cheeks",
+        "bony cheeks",
+        "high cheek structure",
+        "pronounced cheekbones"
+    ],
+    "contr": [
+        "flat cheeks",
+        "low cheekbones",
+        "round cheeks",
+        "soft cheeks",
+        "full cheeks",
+        "smooth cheeks",
+        "low cheek structure",
+        "chubby cheeks",
+        "minimal cheekbones",
+        "reduced cheekbones"
+    ]
+  },
+
+    "male": {
+    "synon": [
+        "male face",
+        "man",
+        "masculine face",
+        "male features",
+        "strong jawline",
+        "broad face",
+        "male facial structure",
+        "angular face",
+        "thicker eyebrows",
+        "wide jaw"
+    ],
+    "contr": [
+        "female face",
+        "woman",
+        "feminine face",
+        "soft features",
+        "female facial structure",
+        "delicate face",
+        "narrow face",
+        "smooth jawline",
+        "smaller jaw",
+        "finer features"
+    ]
+  },
+
+    "mouth slightly open": {
+    "synon": [
+        "open mouth",
+        "slightly open mouth",
+        "parted lips",
+        "lips apart",
+        "open lips",
+        "half open mouth",
+        "mouth open",
+        "small mouth opening",
+        "lip separation",
+        "gap lips"
+    ],
+    "contr": [
+        "closed mouth",
+        "tight lips",
+        "sealed lips",
+        "firm mouth",
+        "shut mouth",
+        "pressed lips",
+        "closed lips",
+        "locked lips",
+        "straight lips",
+        "compressed lips"
+    ]
+  },
+
+    "mustache": {
+    "synon": [
+        "mustache",
+        "upper lip hair",
+        "hair above the lip",
+        "thin mustache",
+        "thick mustache",
+        "full mustache",
+        "short mustache",
+        "trimmed mustache",
+        "lip hair",
+        "fine mustache"
+    ],
+    "contr": [
+        "no mustache",
+        "clean shaven",
+        "bare lip",
+        "no facial hair",
+        "smooth face",
+        "shaved lip",
+        "hairless face",
+        "clean face",
+        "bare upper lip",
+        "face without mustache"
+    ]
+  },
+
+    "narrow eyes": {
+    "synon": [
+        "narrow eyes",
+        "small eyes",
+        "thin eyes",
+        "tight eyes",
+        "slim eyes",
+        "reduced eye opening",
+        "short eyes",
+        "compressed eyes",
+        "low eyelid opening",
+        "minimal eye opening"
+    ],
+    "contr": [
+        "wide eyes",
+        "large eyes",
+        "big eyes",
+        "open eyes",
+        "round eyes",
+        "full eyes",
+        "expanded eyes",
+        "high eyelid opening",
+        "large eye opening",
+        "wide eyelids"
+    ]
+  },
+
+    "no beard": {
+    "synon": [
+        "no beard",
+        "clean shaven",
+        "smooth face",
+        "bare face",
+        "hairless face",
+        "no facial hair",
+        "shaved face",
+        "no stubble",
+        "bare chin",
+        "face without beard"
+    ],
+    "contr": [
+        "beard",
+        "full beard",
+        "stubble",
+        "facial hair",
+        "thick beard",
+        "short beard",
+        "long beard",
+        "heavy beard",
+        "chin beard",
+        "jaw beard"
+    ]
+  },
+
+    "oval face": {
+    "synon": [
+        "oval face",
+        "elongated face",
+        "long face",
+        "slim face shape",
+        "narrow face",
+        "oval face shape",
+        "slightly elongated face",
+        "smooth oval face",
+        "regular oval face",
+        "proportional oval face"
+    ],
+    "contr": [
+        "round face",
+        "square face",
+        "wide face",
+        "angular face",
+        "broad face",
+        "short face",
+        "boxy face",
+        "chubby face",
+        "wide cheeks",
+        "blocky face"
+    ]
+  },
+
+    "pale skin": {
+    "synon": [
+        "pale skin",
+        "light skin",
+        "fair skin",
+        "white skin",
+        "light complexion",
+        "low pigment skin",
+        "pale complexion",
+        "light skin tone",
+        "very light skin",
+        "light facial skin"
+    ],
+    "contr": [
+        "dark skin",
+        "tan skin",
+        "brown skin",
+        "deep skin tone",
+        "tanned skin",
+        "dark complexion",
+        "deep brown skin",
+        "high pigment skin",
+        "dark skin tone",
+        "medium brown skin"
+    ]
+  },
+
+  "pointy nose": {
+    "synon": [
+        "pointy nose",
+        "sharp nose",
+        "narrow nose",
+        "thin nose",
+        "slim nose",
+        "tapered nose",
+        "long narrow nose",
+        "sharp nasal tip",
+        "thin nasal bridge",
+        "slender nose"
+    ],
+    "contr": [
+        "round nose",
+        "broad nose",
+        "wide nose",
+        "flat nose",
+        "large nose",
+        "bulky nose",
+        "thick nose",
+        "big nose tip",
+        "wide nasal bridge",
+        "blunt nose"
+    ]
+  },
+
+  "receding hairline": {
+    "synon": [
+        "receding hairline",
+        "thinning hairline",
+        "balding front",
+        "high forehead",
+        "hairline loss",
+        "retreating hairline",
+        "hairline thinning",
+        "sparse front hair",
+        "front hair loss",
+        "temple hair loss"
+    ],
+    "contr": [
+        "full hairline",
+        "thick hairline",
+        "dense hairline",
+        "low hairline",
+        "solid hairline",
+        "even hairline",
+        "full front hair",
+        "dense front hair",
+        "intact hairline",
+        "complete hairline"
+    ]
+  },
+
+    "rosy cheeks": {
+    "synon": [
+        "rosy cheeks",
+        "red cheeks",
+        "flushed cheeks",
+        "pink cheeks",
+        "blushed cheeks",
+        "cheek redness",
+        "light red cheeks",
+        "pink tone cheeks",
+        "reddish cheeks",
+        "slightly red cheeks"
+    ],
+    "contr": [
+        "pale cheeks",
+        "neutral cheeks",
+        "no blush",
+        "colorless cheeks",
+        "dull cheeks",
+        "white cheeks",
+        "faded cheeks",
+        "low color cheeks",
+        "muted cheeks",
+        "non red cheeks"
+    ]
+  },
+
+    "sideburns": {
+    "synon": [
+        "sideburns",
+        "long sideburns",
+        "short sideburns",
+        "thick sideburns",
+        "extended sideburns",
+        "visible sideburns",
+        "side facial hair",
+        "cheek hair",
+        "hair on the sides of the face",
+        "sideburn hair"
+    ],
+    "contr": [
+        "no sideburns",
+        "shaved sides",
+        "hairless sides",
+        "no side hair",
+        "no facial hair on the sides",
+        "clean cheeks",
+        "bare cheeks",
+        "smooth cheeks",
+        "face without sideburns",
+        "clean face sides"
+    ]
+  },
+
+    "smiling": {
+    "synon": [
+        "smiling",
+        "smile",
+        "wide smile",
+        "toothy smile",
+        "open smile",
+        "closed mouth smile",
+        "upturned lips",
+        "raised mouth corners",
+        "visible teeth smile",
+        "slight smile"
+    ],
+      "contr": [
+        "neutral mouth",
+        "no smile",
+        "straight lips",
+        "closed mouth",
+        "flat lips",
+        "pressed lips",
+        "pursed lips",
+        "downturned lips",
+        "tight lips",
+        "relaxed mouth"
+    ]
+  },
+
+    "straight hair": {
+    "synon": [
+        "straight hair",
+        "flat hair",
+        "sleek hair",
+        "straight strands",
+        "flat strands",
+        "straight texture",
+        "pin straight hair",
+        "even hair strands",
+        "aligned hair strands",
+        "straight flowing hair"
+    ],
+    "contr": [
+        "curly hair",
+        "wavy hair",
+        "coiled hair",
+        "frizzy hair",
+        "kinky hair",
+        "loose curls",
+        "tight curls",
+        "thick curls",
+        "wave texture hair",
+        "curled strands"
+    ]
+  },
+
+    "wavy hair": {
+    "synon": [
+        "wavy hair",
+        "loose waves",
+        "wave texture hair",
+        "natural waves",
+        "light waves",
+        "subtle waves",
+        "wave strands",
+        "curved strands",
+        "wavy strands",
+        "wave pattern hair"
+    ],
+    "contr": [
+        "straight hair",
+        "flat hair",
+        "sleek hair",
+        "pin straight hair",
+        "straight strands",
+        "aligned hair strands",
+        "straight texture",
+        "even strands",
+        "flat strands",
+        "linear hair strands"
+    ]
+  },
+
+    "wearing earrings": {
+    "synon": [
+        "wearing earrings",
+        "earrings",
+        "ear jewelry",
+        "ear studs",
+        "ear hoops",
+        "dangling earrings",
+        "drop earrings",
+        "small earrings",
+        "large earrings",
+        "visible earrings"
+    ],
+    "contr": [
+        "no earrings",
+        "bare ears",
+        "no ear jewelry",
+        "empty ears",
+        "unadorned ears",
+        "no ear accessories",
+        "earrings absent",
+        "bare earlobes",
+        "no visible earrings",
+        "face without earrings"
+    ]
+  },
+
+    "wearing hat": {
+    "synon": [
+        "wearing hat",
+        "hat on head",
+        "with a hat",
+        "headwear",
+        "cap on head",
+        "baseball cap",
+        "beanie hat",
+        "fedora hat",
+        "bucket hat",
+        "hat visible"
+    ],
+    "contr": [
+        "no hat",
+        "bare head",
+        "uncovered head",
+        "without hat",
+        "no headwear",
+        "no cap",
+        "hair visible",
+        "head uncovered",
+        "face without hat",
+        "visible hair"
+    ]
+  },
+
+    "wearing lipstick": {
+    "synon": [
+        "wearing lipstick",
+        "lipstick",
+        "colored lips",
+        "painted lips",
+        "lip makeup",
+        "lip color",
+        "red lipstick",
+        "dark lipstick",
+        "bright lipstick",
+        "pigmented lips"
+    ],
+    "contr": [
+        "no lipstick",
+        "bare lips",
+        "natural lips",
+        "uncolored lips",
+        "lipstick free",
+        "no lip makeup",
+        "unpainted lips",
+        "no lip color",
+        "skin tone lips",
+        "pale lips"
+    ]
+  },
+
+    "wearing necklace": {
+    "synon": [
+        "wearing necklace",
+        "necklace",
+        "neck jewelry",
+        "chain necklace",
+        "pendant necklace",
+        "neck chain",
+        "choker necklace",
+        "long necklace",
+        "short necklace",
+        "visible necklace"
+    ],
+    "contr": [
+        "no necklace",
+        "bare neck",
+        "no neck jewelry",
+        "empty neck",
+        "unadorned neck",
+        "no chain",
+        "necklace absent",
+        "neck without jewelry",
+        "neck without chain",
+        "face without necklace"
+    ]
+  },
+
+    "wearing necktie": {
+    "synon": [
+        "wearing necktie",
+        "necktie",
+        "tie",
+        "formal tie",
+        "tie on neck",
+        "business tie",
+        "suit tie",
+        "long tie",
+        "narrow tie",
+        "visible tie"
+    ],
+    "contr": [
+        "no tie",
+        "no necktie",
+        "open collar",
+        "unbuttoned collar",
+        "shirt without tie",
+        "no tie visible",
+        "bare neck",
+        "no formal tie",
+        "open shirt collar",
+        "neck without tie"
+    ]
+  },
+
+    "young": {
+    "synon": [
+        "young person",
+        "youthful face",
+        "baby face",
+        "juvenile face",
+        "smooth skin",
+        "firm skin",
+        "tight skin",
+        "no wrinkles",
+        "soft facial features",
+        "round cheeks"
+    ],
+    "contr": [
+        "old person",
+        "elderly face",
+        "aged appearance",
+        "wrinkled skin",
+        "lined face",
+        "sagging skin",
+        "loose skin",
+        "aged skin",
+        "deep wrinkles",
+        "sunken cheeks"
+    ]
+  }
+}
